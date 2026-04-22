@@ -80,10 +80,10 @@ const pricingPlans = [
     icon: Crown,
     gradient: 'from-yellow-400 via-amber-400 to-yellow-500',
     iconBg: 'bg-gradient-to-br from-yellow-400 to-amber-500',
-   features: [
+  features: [
   "Tout du Pack Silver inclus",
   "Révisions illimitées (3 mois)",
-  "Modèles d'Emails RH professionnels",
+  "Modèles d'Emails RH professionnels (Prêts à l'envoi)",
   "Guide PDF : Préparation complète à l'entretien",
   "Support WhatsApp Prioritaire"
 ],
