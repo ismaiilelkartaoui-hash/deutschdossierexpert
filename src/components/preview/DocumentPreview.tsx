@@ -245,7 +245,7 @@ export function DocumentPreview({ formData }: DocumentPreviewProps) {
           <p className="font-medium">Free Preview Available</p>
           <p className="text-muted-foreground">
             You can preview your documents for free. PDF export is available with Pro plan (149 DH).
-            Premium plan (299 DH) includes access to 1000+ German company contacts.
+            Premium plan (299 DH) includes access to 99+ German company contacts.
           </p>
         </div>
       </div>
