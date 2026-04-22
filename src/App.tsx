@@ -82,11 +82,10 @@ const pricingPlans = [
     iconBg: 'bg-gradient-to-br from-yellow-400 to-amber-500',
     features: [
       'Tout du Silver inclus',
-      '5x Anschreiben personnalisés',
-      'Liste de 1000 entreprises allemandes',
-      'Emails RH directs',
-      'Suivi personnalisé (1 mois)',
-      'Garantie réponse ou remboursement',
+      'Révisions illimitées (pendant 1 mois)',
+      'Modèles d'Emails RH professionnels (Prêts à l'envoi)',
+      'Guide PDF : Préparation complète à l'entretien',
+      'Support WhatsApp Prioritaire & Personnalisé',
     ],
   },
 ]
